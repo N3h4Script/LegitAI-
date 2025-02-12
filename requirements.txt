@@ -1,0 +1,7 @@
+Flask
+spacy
+openai
+PyPDF2
+streamlit
+requests
+python-dotenv
